@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+    <title>E[foo~="bar"]=h3,div,p,b,span,i[class~="myclass"]</title>
+    <link rel="stylesheet" type="text/css" href="../css/style5.css"/>
+    
+    </head>
+    
+    <body>
+        <h3 class="myclass">1.an E(h3) element whose "foo(class)" attribute value is a          list of whitespace-separated values, one of which is exactly equal to"bar           (myclass)"</h3>
+        
+        
+            <div class="myclass">2..an E(div) element whose "foo(class)" attribute              value is a list of whitespace-separated values, one of which is exactly                equalto"bar (myclass)"</div><br/>
+            
+                <div class="myanotherclass">3</div>
+                
+                    <p class="myclass">4.an E(p) element whose "foo(class)" attribute                      value is exactly equal to "bar(myclass)" </p>
+                    
+                        <b class="myclass">5.an E(b) element whose"foo(class)"                            attribute value is exactly equal to"bar(myclass)" </b><br/>                             <br/>
+                        
+                        <div class="myclass myanotherclass notmyclass">6</div><br/>
+                    
+                    <span class="myclass">7.an E(span) element whose "foo(class)"                    attribute value is exactly equal to"bar(myclass)" </span><br/><br/>
+                
+                <div class="notmyclass">8</div><br/>
+                
+            <div class="myanotherclass notmyclass myclass">9</div><br/>
+            
+         <i class="myclass">10.an E(i) element whose "foo(class)" attribute value is           exactly equal to "bar(myclass)" </i><br/>
+            
+    
+    </body>
+</html>

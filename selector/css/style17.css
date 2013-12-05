@@ -1,0 +1,16 @@
+/* CSS Document */
+i:first-of-type
+{
+color:maroon;
+font-size:24px;
+background-color:#FF0;
+border:2px dotted #000;
+}
+
+b:first-of-type
+{
+color:blue;
+font-size:24px;
+background-color:#FF0;
+border:2px dotted #000;
+}

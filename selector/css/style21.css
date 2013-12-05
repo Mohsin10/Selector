@@ -1,0 +1,7 @@
+/* CSS Document */
+p:empty
+{
+width:200px;
+height:32px;
+background-color:#00F;
+}

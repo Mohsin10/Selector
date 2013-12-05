@@ -1,0 +1,9 @@
+/* CSS Document */
+i::before
+{
+content:"Read this -";
+color:#F63;
+font-size:30px;
+background-color:#3F0;
+}
+

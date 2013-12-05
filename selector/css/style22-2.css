@@ -1,0 +1,9 @@
+/* CSS Document */
+p:lang(fr)
+{
+color:blue;
+font-size:24px;
+background-color:yellow;
+border:2px double #00F;
+}
+

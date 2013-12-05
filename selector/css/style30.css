@@ -1,0 +1,9 @@
+/* CSS Document */
+p > i:first-child
+{
+color:blue;
+font-size:24px;
+font-variant:small-caps;
+background-color:#3F3;
+} 
+

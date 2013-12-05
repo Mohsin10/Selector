@@ -1,0 +1,16 @@
+/* CSS Document */
+i:last-of-type
+{
+color:blue;
+font-size:24px;
+background-color:#0FF;
+border:2px double #00F;
+}
+
+b:last-of-type
+{
+color:blue;
+font-size:18px;
+background-color:#0FF;
+border:2px double #00F;
+}

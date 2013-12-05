@@ -1,0 +1,30 @@
+/* CSS Document */
+	h1{
+		color:red;
+		background-color:#C69;
+		}
+		
+	div{
+		color:blue;
+		background-color:#960;
+		}
+		
+	p{
+		color:green;
+		background-color:#0FF;
+		}
+		
+	b{
+		color:maroon;
+		background-color:#FF0;
+		}
+		
+	span{
+		color:gray;
+		background-color:#CC6;
+		}
+		
+	i{
+		color:navy;
+		background-color:#F0F;
+		}

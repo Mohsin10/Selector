@@ -1,0 +1,44 @@
+/* CSS Document */
+
+h3[class~="myclass"]
+{
+color:white;
+background-color:#90F;
+border:2px dotted #F00;
+}
+
+div[class~="myclass"]
+{
+color:blue;
+background-color:#0FF;
+border:2px dotted #00F;
+}
+
+p[class~="myclass"]
+{
+color:green;
+background-color:#FF0;
+border:2px dotted #0F9;
+}
+
+b[class~="myclass"]
+{
+color:gray;
+background-color:#0F0;
+border:2px dotted #03C;
+}
+
+span[class~="myclass"]
+{
+color:yellow;
+background-color:#39F;
+border:2px dotted #00F;
+}
+
+i[class~="myclass"]
+{
+color:maroon;
+background-color:#3C0;
+border:2px dotted #000;
+}
+

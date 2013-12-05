@@ -1,0 +1,13 @@
+/* CSS Document */
+p
+{
+color:#F00;
+}
+a:not(p)
+{
+color:#00F;
+font-variant:normal;
+font-size:24px;
+background-color:#0F0;
+border:1px solid #F93;
+}

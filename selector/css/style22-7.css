@@ -1,0 +1,9 @@
+/* CSS Document */
+
+p:first-letter 
+{
+color:blue;
+font-size:40px;
+background-color:#0FF;
+border:2px solid #00F;
+}

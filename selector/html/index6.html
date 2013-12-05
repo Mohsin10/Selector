@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>E[foo^="bar"]=hg3,div,p,b,span,i[class^="myclass"]</title>
+        <link rel="stylesheet" type="text/css" href="../css/style6.css"/>
+    </head>
+    
+    <body>
+        <h3 class="myclass">1.an E(h3) element whose "foo(class)" attribute value          begins exactly with the string"bar(myclass)"</h3>
+        
+            <div class="myclass">2.an E(div) element whose "foo(class)" attribute              value begins exactly with the string"bar(myclass)"</div><br/>
+            
+                <div class="myanotherclass">3</div>
+                
+                    <p class="myclass">4.an E(p) element whose "foo(class)" attribute                      value begins exactly with the string"bar(myclass)"</p>
+                    
+                        <b class="myclass">5an E(b) element whose "foo(class)"                         attribute value begins exactly with the string "bar(myclass)"                           </b><br/><br/> 
+                                            
+                        <div class="myclass myanotherclass notmyclass">6</div><br/>
+                        
+                    <span class="myclass">7an E(span) element whose "foo(class)"                      attribute value begins exactly with the string "bar(myclass)"
+                       </span></div><br/><br/>
+                
+                <div class="notmyclass">8</div><br/>
+            
+            <div class="myanotherclass notmyclass myclass">9</div><br/>
+        
+        <i class="myclass">10.an E(i) element whose "foo(class)" attribute value is         exactly equal to "bar(myclass)" </i><br/>
+          
+    </body>
+</html>

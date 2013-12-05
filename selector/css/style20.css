@@ -1,0 +1,9 @@
+/* CSS Document */
+p:only-of-type
+             {
+			 color:#033;
+			 font-size:28px;
+			 background-color:#FF0;
+			 border:2px dashed #CC66FF;
+			 }
+

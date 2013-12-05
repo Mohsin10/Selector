@@ -1,0 +1,9 @@
+/* CSS Document */
+input:enabled
+{
+background:#ffff00;
+}
+input:disabled
+{
+background:#dddddd;
+}
